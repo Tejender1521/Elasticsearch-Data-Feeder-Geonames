@@ -1,0 +1,10 @@
+1114940	Rāvi River	Ravi River	Ravi,Ravi River,Rāvi,Rāvi River	30.62123	71.82683	H	STM	IN	PK	00				0		133	Asia/Kolkata	2017-06-06
+1114942	Punjab Plains	Punjab Plains	Punjab Plains	30	75	T	PLN	IN		00				0		206	Asia/Kolkata	2012-01-16
+1114957	Jhelum River	Jhelum River	Jhelum,Jhelum River,River Hydaspes,Veth River,jhelama,jہlm,جہلم,झेलम	31.16853	72.15066	H	STM	IN	PK	00				0		147	Asia/Kolkata	2020-11-11
+1114958	Hindustan	Hindustan	Hindustan,Hindustán	28	76	L	RGN	IN	IN,PK	00				0		344	Asia/Kolkata	2006-06-23
+1114965	Basantar River	Basantar River	Basantar,Basantar Nala,Basantar Nāla,Basantar River	32.47452	75.01449	H	STM	IN		00				0		300	Asia/Kolkata	2021-09-07
+1163293	Tithwāl	Tithwal		34.39351	73.77416	P	PPL	IN		12				0		1080	Asia/Kolkata	2015-12-05
+1163420	Thruti	Thruti		33.52682	74.15939	P	PPL	IN		12				0		1311	Asia/Kolkata	2018-08-07
+1163626	Thang	Thang		34.9274	76.79336	P	PPL	IN		41				1622	3890	2726	Asia/Kolkata	2020-09-10
+1164949	Siachen Glacier	Siachen Glacier		35.19861	77.20139	H	GLCR	IN		41	003			0		3625	Asia/Kolkata	2019-10-18
+1166907	Richhmār Gali	Richhmar Gali		34.35016	73.75535	T	PASS	IN		12				0		2383	Asia/Kolkata	2015-12-05
